@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Sites\ucgenCiz\bin\Debug\net8.0\ucgenCiz.exe
+C:\Users\PC\Desktop\Sites\ucgenCiz\bin\Debug\net8.0\ucgenCiz.deps.json
+C:\Users\PC\Desktop\Sites\ucgenCiz\bin\Debug\net8.0\ucgenCiz.runtimeconfig.json
+C:\Users\PC\Desktop\Sites\ucgenCiz\bin\Debug\net8.0\ucgenCiz.dll
+C:\Users\PC\Desktop\Sites\ucgenCiz\bin\Debug\net8.0\ucgenCiz.pdb
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\ucgenCiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\ucgenCiz.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\ucgenCiz.AssemblyInfo.cs
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\ucgenCiz.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\ucgenCiz.dll
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\refint\ucgenCiz.dll
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\ucgenCiz.pdb
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\ucgenCiz.genruntimeconfig.cache
+C:\Users\PC\Desktop\Sites\ucgenCiz\obj\Debug\net8.0\ref\ucgenCiz.dll
