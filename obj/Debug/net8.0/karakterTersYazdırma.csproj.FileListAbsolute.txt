@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\bin\Debug\net8.0\karakterTersYazdırma.exe
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\bin\Debug\net8.0\karakterTersYazdırma.deps.json
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\bin\Debug\net8.0\karakterTersYazdırma.runtimeconfig.json
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\bin\Debug\net8.0\karakterTersYazdırma.dll
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\bin\Debug\net8.0\karakterTersYazdırma.pdb
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\karakterTersYazdırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\karakterTersYazdırma.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\karakterTersYazdırma.AssemblyInfo.cs
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\karakterTersYazdırma.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\karakterTersYazdırma.dll
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\refint\karakterTersYazdırma.dll
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\karakterTersYazdırma.pdb
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\karakterTersYazdırma.genruntimeconfig.cache
+C:\Users\PC\Desktop\Sites\karakterTersYazdırma\obj\Debug\net8.0\ref\karakterTersYazdırma.dll
