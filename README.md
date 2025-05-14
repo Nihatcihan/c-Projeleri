@@ -1,0 +1,1 @@
+## ucgen default olarak eşkenar üçgen olarak kabul edildi

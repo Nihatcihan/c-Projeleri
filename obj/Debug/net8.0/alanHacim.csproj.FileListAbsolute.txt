@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Sites\alanHacim\bin\Debug\net8.0\alanHacim.exe
+C:\Users\PC\Desktop\Sites\alanHacim\bin\Debug\net8.0\alanHacim.deps.json
+C:\Users\PC\Desktop\Sites\alanHacim\bin\Debug\net8.0\alanHacim.runtimeconfig.json
+C:\Users\PC\Desktop\Sites\alanHacim\bin\Debug\net8.0\alanHacim.dll
+C:\Users\PC\Desktop\Sites\alanHacim\bin\Debug\net8.0\alanHacim.pdb
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\alanHacim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\alanHacim.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\alanHacim.AssemblyInfo.cs
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\alanHacim.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\alanHacim.dll
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\refint\alanHacim.dll
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\alanHacim.pdb
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\alanHacim.genruntimeconfig.cache
+C:\Users\PC\Desktop\Sites\alanHacim\obj\Debug\net8.0\ref\alanHacim.dll
