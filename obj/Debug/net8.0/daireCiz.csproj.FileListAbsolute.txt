@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Sites\daireCiz\bin\Debug\net8.0\daireCiz.exe
+C:\Users\PC\Desktop\Sites\daireCiz\bin\Debug\net8.0\daireCiz.deps.json
+C:\Users\PC\Desktop\Sites\daireCiz\bin\Debug\net8.0\daireCiz.runtimeconfig.json
+C:\Users\PC\Desktop\Sites\daireCiz\bin\Debug\net8.0\daireCiz.dll
+C:\Users\PC\Desktop\Sites\daireCiz\bin\Debug\net8.0\daireCiz.pdb
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\daireCiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\daireCiz.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\daireCiz.AssemblyInfo.cs
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\daireCiz.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\daireCiz.dll
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\refint\daireCiz.dll
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\daireCiz.pdb
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\daireCiz.genruntimeconfig.cache
+C:\Users\PC\Desktop\Sites\daireCiz\obj\Debug\net8.0\ref\daireCiz.dll
