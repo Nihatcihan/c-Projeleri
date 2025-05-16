@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\Sites\karakterDegistirme\bin\Debug\net8.0\karakterDegistirme.exe
+C:\Users\PC\Desktop\Sites\karakterDegistirme\bin\Debug\net8.0\karakterDegistirme.deps.json
+C:\Users\PC\Desktop\Sites\karakterDegistirme\bin\Debug\net8.0\karakterDegistirme.runtimeconfig.json
+C:\Users\PC\Desktop\Sites\karakterDegistirme\bin\Debug\net8.0\karakterDegistirme.dll
+C:\Users\PC\Desktop\Sites\karakterDegistirme\bin\Debug\net8.0\karakterDegistirme.pdb
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\karakterDegistirme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\karakterDegistirme.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\karakterDegistirme.AssemblyInfo.cs
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\karakterDegistirme.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\karakterDegistirme.dll
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\refint\karakterDegistirme.dll
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\karakterDegistirme.pdb
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\karakterDegistirme.genruntimeconfig.cache
+C:\Users\PC\Desktop\Sites\karakterDegistirme\obj\Debug\net8.0\ref\karakterDegistirme.dll
